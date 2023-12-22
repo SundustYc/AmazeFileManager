@@ -1,0 +1,117 @@
+2023-12-22 20:02:39.609  8117-8144  LeakCanary              com.amaze.filemanager.debug          D  Setting up flushing for Thread[queued-work-looper,5,main]
+2023-12-22 20:02:39.980  1771-1771  SurfaceFlinger          surfaceflinger                       W  couldn't log to binary event log: overflow.
+2023-12-22 20:02:39.980  1771-1771  SurfaceFlinger          surfaceflinger                       W  couldn't log to binary event log: overflow.
+2023-12-22 20:02:40.104  3467-3467  StreamRenderer          com....android.googlequicksearchbox  I  cleanUpRendererScope(nowcards--8677951692913678496)
+2023-12-22 20:02:40.112  3467-3467  SearchService           com....android.googlequicksearchbox  W  Abort, client detached.
+2023-12-22 20:02:40.112  3467-3467  StreamController        com....android.googlequicksearchbox  I  cleanUpControllerScope(nowcards--8677951692913678496)
+2023-12-22 20:02:40.124  3467-8079  WorkController          com....android.googlequicksearchbox  I  WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::j, WorkerId=context, id=9df175f}
+2023-12-22 20:02:40.124  3467-8079  WorkController          com....android.googlequicksearchbox  I  WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::m, WorkerId=context, id=f9615ac}
+2023-12-22 20:02:40.124  3467-8079  WorkController          com....android.googlequicksearchbox  I  WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::n, WorkerId=context, id=c89d275}
+2023-12-22 20:02:40.124  3467-8079  WorkController          com....android.googlequicksearchbox  I  WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::p, WorkerId=context, id=4c720a}
+2023-12-22 20:02:40.138  2051-8002  Places                  com.google.android.gms.persistent    I  ?: Couldn't find platform key file.
+2023-12-22 20:02:40.138  2051-8002  Places                  com.google.android.gms.persistent    I  ?: Couldn't find platform key file.
+2023-12-22 20:02:40.144  2083-2327  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0xe2985720: ver 2 0 (tinfo 0xe2983940)
+2023-12-22 20:02:40.161  2051-3584  PlaceInferenceEngine    com.google.android.gms.persistent    I  [anon] Changed inference mode: 1
+2023-12-22 20:02:40.165  2051-3584  PlaceInferenceEngine    com.google.android.gms.persistent    I  [anon] Changed inference mode: 1
+2023-12-22 20:02:40.516  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@76cc0f9)
+2023-12-22 20:02:40.516  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@76cc0f9)
+2023-12-22 20:02:41.516  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5b0383e)
+2023-12-22 20:02:41.516  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5b0383e)
+2023-12-22 20:02:42.517  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b1f069f)
+2023-12-22 20:02:42.517  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b1f069f)
+2023-12-22 20:02:42.877  2051-8087  NetRec                  com.google.android.gms.persistent    I  [530] aivq.a: Refreshing scores for 1 networks.
+2023-12-22 20:02:42.907  2051-8002  NetRec                  com.google.android.gms.persistent    I  [519] aivq.a: Refreshing scores for 1 networks.
+2023-12-22 20:02:43.518  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b252a97)
+2023-12-22 20:02:43.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b252a97)
+2023-12-22 20:02:44.517  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9975484)
+2023-12-22 20:02:44.517  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9975484)
+2023-12-22 20:02:45.106  2051-8087  NetRec                  com.google.android.gms.persistent    W  [530] aivq.a: Timeout after 2227 ms while waiting for score updates. Returning 1.
+2023-12-22 20:02:45.107  2051-8087  NetRec                  com.google.android.gms.persistent    I  [530] aivq.a: Still entries pending update, scheduling new rapid_refresh_scores_task refresh.
+2023-12-22 20:02:45.110  2051-8087  NetRec                  com.google.android.gms.persistent    I  [530] aivq.a: Completed rapid_refresh_scores_task score refresh task in 2233 ms, returning 1
+2023-12-22 20:02:45.115  2051-8002  NetRec                  com.google.android.gms.persistent    W  [519] aivq.a: Timeout after 2206 ms while waiting for score updates. Returning 1.
+2023-12-22 20:02:45.116  2051-8002  NetRec                  com.google.android.gms.persistent    I  [519] aivq.a: Still entries pending update, scheduling new refresh_scores_task refresh.
+2023-12-22 20:02:45.118  2051-8002  NetRec                  com.google.android.gms.persistent    I  [519] aivq.a: Completed refresh_scores_task score refresh task in 2211 ms, returning 1
+2023-12-22 20:02:45.517  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@587d933)
+2023-12-22 20:02:45.517  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@587d933)
+2023-12-22 20:02:46.518  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f7734f0)
+2023-12-22 20:02:46.518  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f7734f0)
+2023-12-22 20:02:47.518  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@982da69)
+2023-12-22 20:02:47.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@982da69)
+2023-12-22 20:02:47.979  1879-1879  netmgr                  netmgr                               E  Failed to open QEMU pipe 'qemud:network': Invalid argument
+2023-12-22 20:02:47.980  1879-1879  netmgr                  netmgr                               E  WifiForwarder unable to open QEMU pipe: Invalid argument
+2023-12-22 20:02:48.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1792cee)
+2023-12-22 20:02:48.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1792cee)
+2023-12-22 20:02:49.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a5cd58f)
+2023-12-22 20:02:49.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a5cd58f)
+2023-12-22 20:02:50.419  1930-1943  memtrack                system_server                        E  Couldn't load memtrack module
+2023-12-22 20:02:50.419  1930-1943  android.os.Debug        system_server                        W  failed to get memory consumption info: -1
+2023-12-22 20:02:50.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e4f29fa)
+2023-12-22 20:02:50.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e4f29fa)
+2023-12-22 20:02:50.859  1784-1822  storaged                storaged                             E  getDiskStats failed with result NOT_SUPPORTED and size 0
+2023-12-22 20:02:51.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7db3bab)
+2023-12-22 20:02:51.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7db3bab)
+2023-12-22 20:02:52.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c8b208)
+2023-12-22 20:02:52.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c8b208)
+2023-12-22 20:02:53.297  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  handleMessage() : CheckDownload
+2023-12-22 20:02:53.307  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  Download Progress [1, en-US]: 0/-1 bytes
+2023-12-22 20:02:53.307  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  handleMessage() : Check Again : 1 pending
+2023-12-22 20:02:53.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6e26da1)
+2023-12-22 20:02:53.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6e26da1)
+2023-12-22 20:02:53.822  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 9438735 , only wrote 9438480
+2023-12-22 20:02:54.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@755ebc6)
+2023-12-22 20:02:54.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@755ebc6)
+2023-12-22 20:02:55.519  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e8fe787)
+2023-12-22 20:02:55.519  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e8fe787)
+2023-12-22 20:02:56.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@53ae6b4)
+2023-12-22 20:02:56.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@53ae6b4)
+2023-12-22 20:02:57.033  1638-1689  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 9744781 , only wrote 9592560
+2023-12-22 20:02:57.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f9742dd)
+2023-12-22 20:02:57.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f9742dd)
+2023-12-22 20:02:58.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@db4fe52)
+2023-12-22 20:02:58.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@db4fe52)
+2023-12-22 20:02:59.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f97523)
+2023-12-22 20:02:59.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f97523)
+2023-12-22 20:02:59.999  1798-1813  hwcomposer              and...graphics.composer@2.1-service  D  hw_composer sent 180 syncs in 60s
+2023-12-22 20:03:00.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ca2fd9)
+2023-12-22 20:03:00.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ca2fd9)
+2023-12-22 20:03:01.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b80ad9e)
+2023-12-22 20:03:01.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b80ad9e)
+2023-12-22 20:03:02.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e4407f)
+2023-12-22 20:03:02.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e4407f)
+2023-12-22 20:03:03.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e10584c)
+2023-12-22 20:03:03.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e10584c)
+2023-12-22 20:03:04.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ea4f095)
+2023-12-22 20:03:04.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ea4f095)
+2023-12-22 20:03:05.199  1930-1943  memtrack                system_server                        E  Couldn't load memtrack module
+2023-12-22 20:03:05.199  1930-1943  android.os.Debug        system_server                        W  failed to get memory consumption info: -1
+2023-12-22 20:03:05.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c605aa)
+2023-12-22 20:03:05.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5c605aa)
+2023-12-22 20:03:06.277  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 9592857 , only wrote 9592560
+2023-12-22 20:03:06.339  8117-8177  skia                    com.amaze.filemanager.debug          D  --- Failed to create image decoder with message 'unimplemented'
+2023-12-22 20:03:06.341  8117-8177  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) glide-source-th identical 2 lines
+2023-12-22 20:03:06.341  8117-8177  skia                    com.amaze.filemanager.debug          D  --- Failed to create image decoder with message 'unimplemented'
+2023-12-22 20:03:06.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@686659b)
+2023-12-22 20:03:06.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@686659b)
+2023-12-22 20:03:07.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b10ad38)
+2023-12-22 20:03:07.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b10ad38)
+2023-12-22 20:03:08.266  1771-1771  SurfaceFlinger          surfaceflinger                       D  duplicate layer name: changing com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity to com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1
+2023-12-22 20:03:08.269  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5156864
+2023-12-22 20:03:08.280  1648-1701  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5156864
+2023-12-22 20:03:08.284  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5156864
+2023-12-22 20:03:08.295  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2023-12-22 20:03:08.295  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2023-12-22 20:03:08.310  8117-8159  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe26830c0: ver 2 0 (tinfo 0xe87fd9b0)
+2023-12-22 20:03:08.375  8117-8159  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 2 lines
+2023-12-22 20:03:08.388  8117-8159  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe26830c0: ver 2 0 (tinfo 0xe87fd9b0)
+2023-12-22 20:03:08.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a806c7c)
+2023-12-22 20:03:08.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a806c7c)
+2023-12-22 20:03:09.520  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@c07eb8b)
+2023-12-22 20:03:09.521  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@c07eb8b)
+2023-12-22 20:03:09.848  8117-8159  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe26830c0: ver 2 0 (tinfo 0xe87fd9b0)
+2023-12-22 20:03:10.185  8117-8159  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe26830c0: ver 2 0 (tinfo 0xe87fd9b0)
+2023-12-22 20:03:10.188  8117-8159  OpenGLRenderer          com.amaze.filemanager.debug          D  endAllActiveAnimators on 0xcc9a6a00 (RippleDrawable) with handle 0xc7ef01e0
+2023-12-22 20:03:10.196  8117-8159  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe26830c0: ver 2 0 (tinfo 0xe87fd9b0)
+2023-12-22 20:03:10.246  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2023-12-22 20:03:10.246  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2023-12-22 20:03:10.253  8117-8117  RecyclerView            com.amaze.filemanager.debug          E  No adapter attached; skipping layout
+2023-12-22 20:03:10.365  1771-1903  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1

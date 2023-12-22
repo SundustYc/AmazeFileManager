@@ -1,0 +1,194 @@
+2023-12-22 19:55:03.845  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:04.094  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 16 lines
+2023-12-22 19:55:04.101  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:04.483  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@394a511)
+2023-12-22 19:55:04.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@394a511)
+2023-12-22 19:55:05.483  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@cbba676)
+2023-12-22 19:55:05.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@cbba676)
+2023-12-22 19:55:05.499  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:06.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@de20477)
+2023-12-22 19:55:06.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@de20477)
+2023-12-22 19:55:06.954  1638-1689  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8138315 , only wrote 7985520
+2023-12-22 19:55:07.066  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 7985689 , only wrote 7985520
+2023-12-22 19:55:07.149  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:07.426  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 14 lines
+2023-12-22 19:55:07.432  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:07.483  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1a258e4)
+2023-12-22 19:55:07.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1a258e4)
+2023-12-22 19:55:08.483  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d8d814d)
+2023-12-22 19:55:08.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d8d814d)
+2023-12-22 19:55:09.044  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5099520
+2023-12-22 19:55:09.050  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5099520
+2023-12-22 19:55:09.052  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5099520
+2023-12-22 19:55:09.128  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:09.368  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 18 lines
+2023-12-22 19:55:09.378  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:09.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@99e1f50)
+2023-12-22 19:55:09.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@99e1f50)
+2023-12-22 19:55:10.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@dbde549)
+2023-12-22 19:55:10.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@dbde549)
+2023-12-22 19:55:10.682  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:10.734  7929-7929  TextInputLayout         com.amaze.filemanager.debug          I  EditText added is not a TextInputEditText. Please switch to using that class instead.
+2023-12-22 19:55:10.773  1771-1771  SurfaceFlinger          surfaceflinger                       D  duplicate layer name: changing com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity to com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1
+2023-12-22 19:55:10.784  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5070848
+2023-12-22 19:55:10.787  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5070848
+2023-12-22 19:55:10.790  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 5070848
+2023-12-22 19:55:10.806  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2023-12-22 19:55:10.807  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2023-12-22 19:55:10.819  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:10.850  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:10.855  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onFinishInput() : Dummy InputConnection bound
+2023-12-22 19:55:10.869  7929-7929  AssistStructure         com.amaze.filemanager.debug          I  Flattened final assist data: 18932 bytes, containing 3 windows, 82 views
+2023-12-22 19:55:10.874  1930-2280  AssistStructure         system_server                        I  Flattened final assist data: 18496 bytes, containing 3 windows, 82 views
+2023-12-22 19:55:10.894  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:10.910  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 1 line
+2023-12-22 19:55:10.956  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:10.960  3017-3017  LatinIme                com...gle.android.inputmethod.latin  I  initialize() : Language = en-US
+2023-12-22 19:55:10.961  3017-3017  Delight5Facilitator     com...gle.android.inputmethod.latin  I  initializeForIme() : Locale = [en_US]
+2023-12-22 19:55:10.961  3017-3017  Delight5Facilitator     com...gle.android.inputmethod.latin  I  initializeForIme() : Locale == CurrentLocale
+2023-12-22 19:55:10.961  3017-3017  EmojiSuperpacksFeature  com...gle.android.inputmethod.latin  I  Emoji superpacks are disabled by Phenotype
+2023-12-22 19:55:10.962  3017-3017  LatinIme                com...gle.android.inputmethod.latin  I  onActivate() : EditorInfo = Package = com.amaze.filemanager.debug : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : Incognito = Disable
+2023-12-22 19:55:10.965  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.002  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 3 lines
+2023-12-22 19:55:11.011  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.019  3017-3017  InputContext            com...gle.android.inputmethod.latin  I  input context reset success: true error: 0 input_state_id 81
+2023-12-22 19:55:11.020  3017-3017  VoiceImeTranscriptor    com...gle.android.inputmethod.latin  W  UIME feature enabled: true
+2023-12-22 19:55:11.020  3017-3062  PillNotificationLstnr   com...gle.android.inputmethod.latin  I  maybeSetupPill()
+2023-12-22 19:55:11.025  3017-3017  LatinMotionHandler      com...gle.android.inputmethod.latin  I  consumeEvent() : GestureTypingEnabled = true
+2023-12-22 19:55:11.025  3017-3017  EmojiDataExtension      com...gle.android.inputmethod.latin  I  onActivate() : Locale = en_US
+2023-12-22 19:55:11.025  3017-3017  EmojiSuperpacksFeature  com...gle.android.inputmethod.latin  I  Emoji superpacks are disabled by Phenotype
+2023-12-22 19:55:11.026  3017-3017  FeatureCardNotice       com...gle.android.inputmethod.latin  I  Feature card notice not shown: no cards to display
+2023-12-22 19:55:11.026  3017-3017  GifEntryExtension       com...gle.android.inputmethod.latin  I  onActivate()
+2023-12-22 19:55:11.026  3017-3017  DevFeatureConfig        com...gle.android.inputmethod.latin  I  Gif candidate disabled by Phenotype
+2023-12-22 19:55:11.026  3017-3017  Conv2QueryExtension     com...gle.android.inputmethod.latin  I  isEnabled() : true
+2023-12-22 19:55:11.026  3017-3017  Conv2QueryExtension     com...gle.android.inputmethod.latin  I  Current locale: en_US, config allows these locales: de,en,fr,it,es,pt
+2023-12-22 19:55:11.027  3017-3017  Conv2QueryExtension     com...gle.android.inputmethod.latin  W  Conv2Query not enabled due to current app [com.amaze.filemanager.debug] not in whitelist
+2023-12-22 19:55:11.027  3017-3017  Conv2QueryExtension     com...gle.android.inputmethod.latin  W  onActivate() : Disabled by unsupported host app
+2023-12-22 19:55:11.027  3017-3017  VoiceImeTranscriptor    com...gle.android.inputmethod.latin  W  UIME feature enabled: true
+2023-12-22 19:55:11.027  3017-3017  VoiceImeExtension       com...gle.android.inputmethod.latin  I  Voice Extension onStartInputView() Mic status = [MicIconAvailable]
+2023-12-22 19:55:11.027  3017-3129  PrimesMetrics           com...gle.android.inputmethod.latin  I  Ignore memory metric of com.google.android.apps.inputmethod.libs.search.nativecard.FeatureCardNoticeExtension.
+2023-12-22 19:55:11.029  3017-3129  PrimesMetrics           com...gle.android.inputmethod.latin  I  Ignore memory metric of com.google.android.apps.inputmethod.libs.search.gif.GifEntryPointCandidateExtension.
+2023-12-22 19:55:11.030  3017-3129  PrimesMetrics           com...gle.android.inputmethod.latin  I  Ignore memory metric of com.google.android.apps.inputmethod.libs.pill.PillExtension.
+2023-12-22 19:55:11.035  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.037  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 17489920
+2023-12-22 19:55:11.040  1648-3067  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 17489920
+2023-12-22 19:55:11.042  1648-1701  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 17489920
+2023-12-22 19:55:11.042  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 40960
+2023-12-22 19:55:11.048  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 40960
+2023-12-22 19:55:11.059  3017-3017  FeaturePermissions      com...gle.android.inputmethod.latin  I  onSharedPreferenceChanged() : Key = latest_activation_time : Feature = null
+2023-12-22 19:55:11.062  2083-2327  EGL_emulation           com.android.systemui                 D  eglMakeCurrent: 0xe2985720: ver 2 0 (tinfo 0xe2983940)
+2023-12-22 19:55:11.070  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.080  3017-7455  EGL_emulation           com...gle.android.inputmethod.latin  D  eglMakeCurrent: 0xe2987280: ver 2 0 (tinfo 0xe29d9f20)
+2023-12-22 19:55:11.130  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.161  7929-7971  chatty                  com.amaze.filemanager.debug          I  uid=10087(com.amaze.filemanager.debug) RenderThread identical 2 lines
+2023-12-22 19:55:11.169  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:11.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5a2f4ba)
+2023-12-22 19:55:11.484  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5a2f4ba)
+2023-12-22 19:55:11.534  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:12.338  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 81920
+2023-12-22 19:55:12.344  1648-1701  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 81920
+2023-12-22 19:55:12.345  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 81920
+2023-12-22 19:55:12.366  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:12.376  3017-3017  InputContext            com...gle.android.inputmethod.latin  I  input context reset success: true error: 0 input_state_id 83
+2023-12-22 19:55:12.377  3017-3017  LatinMotionHandler      com...gle.android.inputmethod.latin  I  consumeEvent() : GestureTypingEnabled = true
+2023-12-22 19:55:12.385  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:12.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@89c00e3)
+2023-12-22 19:55:12.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@89c00e3)
+2023-12-22 19:55:12.919  2051-7802  NetRec                  com.google.android.gms.persistent    I  [513] aivq.a: Refreshing scores for 1 networks.
+2023-12-22 19:55:12.946  2051-7803  NetRec                  com.google.android.gms.persistent    I  [514] aivq.a: Refreshing scores for 1 networks.
+2023-12-22 19:55:13.463  1771-1801  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: PopupWindow:e4e6ce8#0
+2023-12-22 19:55:13.463  1771-1801  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: PopupWindow:e4e6ce8#0
+2023-12-22 19:55:13.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@996693c)
+2023-12-22 19:55:13.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@996693c)
+2023-12-22 19:55:13.891  1638-1689  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8638710 , only wrote 8313120
+2023-12-22 19:55:14.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@98346c5)
+2023-12-22 19:55:14.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@98346c5)
+2023-12-22 19:55:14.620  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8313220 , only wrote 8313120
+2023-12-22 19:55:14.629  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:14.633  7929-7971  OpenGLRenderer          com.amaze.filemanager.debug          D  endAllActiveAnimators on 0xc7fd7280 (RippleDrawable) with handle 0xcfaaec80
+2023-12-22 19:55:14.694  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 270336
+2023-12-22 19:55:14.702  1648-1701  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 270336
+2023-12-22 19:55:14.704  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 270336
+2023-12-22 19:55:14.727  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:14.753  3017-3017  PhenotypeExpConfig      com...gle.android.inputmethod.latin  I  refreshConfiguration() : Force = false : UpdateAvailable = false : Age = 12 minutes : MaxAge = 720 minutes
+2023-12-22 19:55:14.753  3017-3017  LatinIme                com...gle.android.inputmethod.latin  I  abortComposing()
+2023-12-22 19:55:14.755  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:14.759  3017-3017  Delight5Decoder         com...gle.android.inputmethod.latin  I  abortComposing() : input state id = 86
+2023-12-22 19:55:14.760  3017-3017  LatinIme                com...gle.android.inputmethod.latin  I  onDeactivate()
+2023-12-22 19:55:14.761  3017-3017  EmojiDataExtension      com...gle.android.inputmethod.latin  I  onDeactivate() : Locale = en_US
+2023-12-22 19:55:14.762  3017-3017  GoogleInputMethod       com...gle.android.inputmethod.latin  I  onStartInput() : Dummy InputConnection bound
+2023-12-22 19:55:14.765  3017-8001  DlamWrapper             com...gle.android.inputmethod.latin  I  close(): Successfully wrote DLAM properties file.
+2023-12-22 19:55:14.768  7929-7971  EGL_emulation           com.amaze.filemanager.debug          D  eglMakeCurrent: 0xe87ef800: ver 2 0 (tinfo 0xe87ed990)
+2023-12-22 19:55:14.773  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 40960
+2023-12-22 19:55:14.774  3017-7455  EGL_emulation           com...gle.android.inputmethod.latin  D  eglMakeCurrent: 0xe2987280: ver 2 0 (tinfo 0xe29d9f20)
+2023-12-22 19:55:14.784  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 40960
+2023-12-22 19:55:14.808  1771-1795  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1
+2023-12-22 19:55:14.808  1771-1795  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1
+2023-12-22 19:55:14.825  1771-1903  SurfaceFlinger          surfaceflinger                       W  Attempting to set client state on removed layer: Dim Layer for - Task=13#0
+2023-12-22 19:55:14.825  1771-1903  SurfaceFlinger          surfaceflinger                       W  Attempting to destroy on removed layer: Dim Layer for - Task=13#0
+2023-12-22 19:55:15.158  2051-7803  NetRec                  com.google.android.gms.persistent    W  [514] aivq.a: Timeout after 2209 ms while waiting for score updates. Returning 1.
+2023-12-22 19:55:15.159  2051-7803  NetRec                  com.google.android.gms.persistent    I  [514] aivq.a: Still entries pending update, scheduling new refresh_scores_task refresh.
+2023-12-22 19:55:15.161  2051-7802  NetRec                  com.google.android.gms.persistent    W  [513] aivq.a: Timeout after 2240 ms while waiting for score updates. Returning 1.
+2023-12-22 19:55:15.162  2051-7802  NetRec                  com.google.android.gms.persistent    I  [513] aivq.a: Still entries pending update, scheduling new rapid_refresh_scores_task refresh.
+2023-12-22 19:55:15.164  2051-7803  NetRec                  com.google.android.gms.persistent    I  [514] aivq.a: Completed refresh_scores_task score refresh task in 2218 ms, returning 1
+2023-12-22 19:55:15.166  2051-7802  NetRec                  com.google.android.gms.persistent    I  [513] aivq.a: Completed rapid_refresh_scores_task score refresh task in 2247 ms, returning 1
+2023-12-22 19:55:15.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f6bcbed)
+2023-12-22 19:55:15.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f6bcbed)
+2023-12-22 19:55:16.484  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f563a22)
+2023-12-22 19:55:16.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f563a22)
+2023-12-22 19:55:16.636  1930-2054  NotificationService     system_server                        W  Toast already killed. pkg=com.amaze.filemanager.debug callback=android.app.ITransientNotification$Stub$Proxy@ac1d66e
+2023-12-22 19:55:16.637  7929-7929  LeakCanary              com.amaze.filemanager.debug          D  Watching instance of android.widget.LinearLayout (android.widget.LinearLayout received View#onDetachedFromWindow() callback) with key 0af791a3-b46b-4d69-9435-b34a00c3c1d9
+2023-12-22 19:55:17.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f3f8ba5)
+2023-12-22 19:55:17.485  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@f3f8ba5)
+2023-12-22 19:55:17.860  1638-1689  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8622157 , only wrote 8468640
+2023-12-22 19:55:18.146  1930-1952  WindowManager           system_server                        W  Unable to start animation, surface is null or no children.
+2023-12-22 19:55:18.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7579f2b)
+2023-12-22 19:55:18.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7579f2b)
+2023-12-22 19:55:19.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9100f88)
+2023-12-22 19:55:19.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9100f88)
+2023-12-22 19:55:20.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@bc23d21)
+2023-12-22 19:55:20.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@bc23d21)
+2023-12-22 19:55:21.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8da4546)
+2023-12-22 19:55:21.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8da4546)
+2023-12-22 19:55:21.657  7929-7955  lemanager.debu          com.amaze.filemanager.debug          I  Explicit concurrent copying GC freed 48179(2MB) AllocSpace objects, 6(168KB) LOS objects, 49% free, 5MB/10MB, paused 279us total 18.656ms
+2023-12-22 19:55:22.234  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  handleMessage() : CheckDownload
+2023-12-22 19:55:22.242  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  Download Progress [1, en-US]: 0/-1 bytes
+2023-12-22 19:55:22.243  3017-3254  DownloadMessageCallback com...gle.android.inputmethod.latin  I  handleMessage() : Check Again : 1 pending
+2023-12-22 19:55:22.256  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8468819 , only wrote 8468640
+2023-12-22 19:55:22.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2f0307)
+2023-12-22 19:55:22.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2f0307)
+2023-12-22 19:55:23.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@55a9c34)
+2023-12-22 19:55:23.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@55a9c34)
+2023-12-22 19:55:24.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7648a5d)
+2023-12-22 19:55:24.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@7648a5d)
+2023-12-22 19:55:25.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8e56fd2)
+2023-12-22 19:55:25.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8e56fd2)
+2023-12-22 19:55:26.456  1638-1689  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8869862 , only wrote 8670240
+2023-12-22 19:55:26.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2ec8a3)
+2023-12-22 19:55:26.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2ec8a3)
+2023-12-22 19:55:27.485  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@61f47a0)
+2023-12-22 19:55:27.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@61f47a0)
+2023-12-22 19:55:27.543  1638-6602  audio_hw_generic        android.hardware.audio@2.0-service   W  Not supplying enough data to HAL, expected position 8670340 , only wrote 8670240
+2023-12-22 19:55:27.627  1930-1930  WindowManager           system_server                        W  removeWindowToken: Attempted to remove non-existing token: android.os.Binder@dd3581a
+2023-12-22 19:55:28.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8e46f59)
+2023-12-22 19:55:28.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8e46f59)
+2023-12-22 19:55:29.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b06b71e)
+2023-12-22 19:55:29.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b06b71e)
+2023-12-22 19:55:30.191  1771-1771  SurfaceFlinger          surfaceflinger                       D  duplicate layer name: changing com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity to com.amaze.filemanager.debug/com.amaze.filemanager.ui.activities.MainActivity#1
+2023-12-22 19:55:30.192  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 4009984
+2023-12-22 19:55:30.204  1648-1701  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 4009984
+2023-12-22 19:55:30.206  1648-1648  gralloc_ranchu          and...raphics.allocator@2.0-service  D  gralloc_alloc: Creating ashmem region of size 4009984
+2023-12-22 19:55:30.448  1930-1930  NotificationService     system_server                        I  Cannot find enqueued record for key: 0|com.amaze.filemanager.debug|0|null|10087
+2023-12-22 19:55:30.457  7929-7929  lemanager.debu          com.amaze.filemanager.debug          W  Accessing hidden field Landroid/app/ActivityThread;->mServices:Landroid/util/ArrayMap; (light greylist, reflection)
+2023-12-22 19:55:30.458  7929-7929  LeakCanary              com.amaze.filemanager.debug          D  Watching instance of com.amaze.filemanager.asynchronous.services.CopyService (com.amaze.filemanager.asynchronous.services.CopyService received Service#onDestroy() callback) with key 22f4eaae-0db0-474d-a969-b62691275f4b
+2023-12-22 19:55:30.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@65d23ce)
+2023-12-22 19:55:30.487  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@65d23ce)
+2023-12-22 19:55:31.487  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5e532ef)
+2023-12-22 19:55:31.487  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5e532ef)
+2023-12-22 19:55:32.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@bf5b1fc)
+2023-12-22 19:55:32.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@bf5b1fc)
+2023-12-22 19:55:33.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8bfc085)
+2023-12-22 19:55:33.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8bfc085)
+2023-12-22 19:55:34.486  1930-3581  GnssLocationProvider    system_server                        I  WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@22baeda)
+2023-12-22 19:55:34.486  1930-1943  GnssLocationProvider    system_server                        I  WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@22baeda)
+2023-12-22 19:55:35.479  7929-7955  lemanager.debu          com.amaze.filemanager.debug          I  Explicit concurrent copying GC freed 28755(1527KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 5MB/10MB, paused 411us total 19.478ms
